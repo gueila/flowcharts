@@ -1,5 +1,5 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.2.7" pages="2">
-  <diagram name="Page-1" id="8zH7TcxPz3aNZjQDuvse">
+  <diagram name="lealtad" id="8zH7TcxPz3aNZjQDuvse">
     <mxGraphModel dx="808" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -26,7 +26,7 @@
           <mxGeometry x="60" y="52" width="35" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OOM-nGGXsE_Pw0qRHjK8-15" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.web;fillColorStyles=fillColor2,fillColor3,fillColor4;fillColor2=#032d60;fillColor3=#0d9dda;fillColor4=#ffffff;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="47.5" y="160" width="60" height="47.400000000000006" as="geometry" />
+          <mxGeometry x="47.5" y="170" width="60" height="47.400000000000006" as="geometry" />
         </mxCell>
         <mxCell id="OOM-nGGXsE_Pw0qRHjK8-16" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
           <mxGeometry x="47.5" y="386" width="50" height="48" as="geometry" />
@@ -81,17 +81,17 @@
         <mxCell id="OOM-nGGXsE_Pw0qRHjK8-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OOM-nGGXsE_Pw0qRHjK8-16" target="OOM-nGGXsE_Pw0qRHjK8-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OOM-nGGXsE_Pw0qRHjK8-46" value="web-administracion" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="37.5" y="210" width="80" height="30" as="geometry" />
+        <mxCell id="OOM-nGGXsE_Pw0qRHjK8-46" value="1. web-administracion" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="26.25" y="220" width="122.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OOM-nGGXsE_Pw0qRHjK8-49" value="web-comercios" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="26.25" y="240" width="102.5" height="30" as="geometry" />
+        <mxCell id="OOM-nGGXsE_Pw0qRHjK8-49" value="2. web-comercios" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="26.25" y="250" width="102.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OOM-nGGXsE_Pw0qRHjK8-50" value="Ganamovil/Yolo" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="102" width="95" height="30" as="geometry" />
+        <mxCell id="OOM-nGGXsE_Pw0qRHjK8-50" value="Ganamovil/Yolo/ATM" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="102" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OOM-nGGXsE_Pw0qRHjK8-51" value="web-contact-center" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="26.25" y="270" width="112.5" height="30" as="geometry" />
+        <mxCell id="OOM-nGGXsE_Pw0qRHjK8-51" value="3. web-contact-center" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="26.25" y="280" width="123.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OOM-nGGXsE_Pw0qRHjK8-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;" edge="1" parent="1" source="OOM-nGGXsE_Pw0qRHjK8-19" target="OOM-nGGXsE_Pw0qRHjK8-4">
           <mxGeometry relative="1" as="geometry" />
