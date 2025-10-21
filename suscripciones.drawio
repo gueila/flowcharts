@@ -1,0 +1,83 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.2.7">
+  <diagram name="Page-1" id="Eh5Cdj09vGI3n-2eherM">
+    <mxGraphModel dx="808" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sYqcYN33AmbDv1akcb1a-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sYqcYN33AmbDv1akcb1a-2" target="sYqcYN33AmbDv1akcb1a-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sYqcYN33AmbDv1akcb1a-2" value="Ms Campana" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="210" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqcYN33AmbDv1akcb1a-4" value="Ms Administracion" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="40" width="430" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqcYN33AmbDv1akcb1a-5" value="Ms Archivos" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="320" width="325" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqcYN33AmbDv1akcb1a-6" value="1. reglas-lealtad/validar-vamos" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="70" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqcYN33AmbDv1akcb1a-1" value="suscripciones-yolo/contrato-suscripcion" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="135" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqcYN33AmbDv1akcb1a-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.05;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.996;exitY=0.095;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sYqcYN33AmbDv1akcb1a-2" target="sYqcYN33AmbDv1akcb1a-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqcYN33AmbDv1akcb1a-9" value="Verificar vamos" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqcYN33AmbDv1akcb1a-10" value="2. condicion-suscripcion-lealtad/obtener-datos-para-suscripcion" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="110" width="375" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqcYN33AmbDv1akcb1a-11" value="3. campanas-lealtad/contrato-campana" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="150" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqcYN33AmbDv1akcb1a-12" value="Topaz" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="210" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqcYN33AmbDv1akcb1a-13" value="4. lealtad/registrarSuscrito" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="432.5" y="240" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqcYN33AmbDv1akcb1a-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;" edge="1" parent="1" source="sYqcYN33AmbDv1akcb1a-2" target="sYqcYN33AmbDv1akcb1a-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqcYN33AmbDv1akcb1a-15" value="5. lealtad/actualizarSuscrito" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="270" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqcYN33AmbDv1akcb1a-16" value="6. contratos/buscar-contrato-persona" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="350" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqcYN33AmbDv1akcb1a-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sYqcYN33AmbDv1akcb1a-2" target="sYqcYN33AmbDv1akcb1a-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqcYN33AmbDv1akcb1a-18" value="7. contratos/guardarContrato" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="380" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqcYN33AmbDv1akcb1a-19" value="Ms Bonificacion" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="440" width="360" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqcYN33AmbDv1akcb1a-20" value="8. acumulacion-puntos/verificar-puntos-migrados-idpersona" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="480" width="325" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqcYN33AmbDv1akcb1a-21" value="9. acumulacion-puntos/create" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="510" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqcYN33AmbDv1akcb1a-22" value="ms Notificacion" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="560" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqcYN33AmbDv1akcb1a-23" value="10. enviar-notificacion" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="590" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sYqcYN33AmbDv1akcb1a-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.189;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sYqcYN33AmbDv1akcb1a-2" target="sYqcYN33AmbDv1akcb1a-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
