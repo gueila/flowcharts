@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.2.7" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.2.7" pages="3">
   <diagram name="lealtad" id="8zH7TcxPz3aNZjQDuvse">
     <mxGraphModel dx="1336" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="OOM-nGGXsE_Pw0qRHjK8-12" value="ms Regulatizador" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="20" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OOM-nGGXsE_Pw0qRHjK8-13" value="ms Sftp" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="655" y="210" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OOM-nGGXsE_Pw0qRHjK8-14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="52" width="35" height="50" as="geometry" />
@@ -30,7 +27,7 @@
         <mxCell id="OOM-nGGXsE_Pw0qRHjK8-19" value="ms Campana" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="180" y="30" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OOM-nGGXsE_Pw0qRHjK8-20" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;ms Administracion&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="OOM-nGGXsE_Pw0qRHjK8-20" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;ms Administracion&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=18;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="180" y="102" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OOM-nGGXsE_Pw0qRHjK8-21" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;ms Beneficios&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
@@ -96,7 +93,7 @@
           <mxGeometry x="490" y="205" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XBIgV-tcJUeDNdHU_YMv-2" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;ms linksers&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="500" y="300" width="90" height="60" as="geometry" />
+          <mxGeometry x="508.35" y="300" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XBIgV-tcJUeDNdHU_YMv-3" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;ms Reglas Core&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="345" y="211.1" width="105" height="60" as="geometry" />
@@ -108,7 +105,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XBIgV-tcJUeDNdHU_YMv-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="680" y="290" width="60" height="90" as="geometry" />
+          <mxGeometry x="710" y="370" width="60" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XBIgV-tcJUeDNdHU_YMv-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="XBIgV-tcJUeDNdHU_YMv-8">
           <mxGeometry width="60" height="60" as="geometry" />
@@ -117,7 +114,7 @@
           <mxGeometry y="60" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XBIgV-tcJUeDNdHU_YMv-11" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="640" y="400" width="60" height="90" as="geometry" />
+          <mxGeometry x="580" y="430" width="60" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XBIgV-tcJUeDNdHU_YMv-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="XBIgV-tcJUeDNdHU_YMv-11">
           <mxGeometry width="60" height="60" as="geometry" />
@@ -130,6 +127,9 @@
         </mxCell>
         <mxCell id="XBIgV-tcJUeDNdHU_YMv-13" value="Apis de integracion" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="28.13" y="500" width="77.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WvwL-0g4jtN8OiJh0lRT-5" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;ms sftp&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="650" y="190" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -183,6 +183,17 @@
         </mxCell>
         <mxCell id="y3C3Ynn8Zng3jrYVdHfr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.617;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y3C3Ynn8Zng3jrYVdHfr-3" target="06CbXgnT4wGmGunYRNDH-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3H6jIujtxZAk38mHqB8F" name="Page-3">
+    <mxGraphModel dx="1336" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oJWGZQ2pfKAylFkyFJdD-1" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: inherit;&quot;&gt;&lt;b&gt;DB LEALTAPROD&lt;/b&gt;&lt;br&gt;&amp;nbsp;IP 10.212.16.62&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: inherit;&quot;&gt;contenedor de oracle 19.20&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: inherit;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: inherit; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;y la bd de lealtad es un Pluggable database (PDB) con SID/ServiceName: pdblealtad_prod&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="40" width="450" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
